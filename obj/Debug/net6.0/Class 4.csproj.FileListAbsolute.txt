@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Desktop/Class 4/bin/Debug/net6.0/Class 4
+/Users/kittinunchobtham/Desktop/Class 4/bin/Debug/net6.0/Class 4.deps.json
+/Users/kittinunchobtham/Desktop/Class 4/bin/Debug/net6.0/Class 4.runtimeconfig.json
+/Users/kittinunchobtham/Desktop/Class 4/bin/Debug/net6.0/Class 4.dll
+/Users/kittinunchobtham/Desktop/Class 4/bin/Debug/net6.0/Class 4.pdb
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.AssemblyInfo.cs
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.dll
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/refint/Class 4.dll
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.pdb
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/Class 4.genruntimeconfig.cache
+/Users/kittinunchobtham/Desktop/Class 4/obj/Debug/net6.0/ref/Class 4.dll
